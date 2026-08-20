@@ -1,25 +1,24 @@
-# Hi 👋, I'm Darniel
+              Hi 👋, I'm Darniel
 
-Physics student who likes coding, electronics, sensors, and building random projects ⚡
+ Physics student who likes coding, electronics,
+ sensors, and building random projects ⚡
 
-I like learning new things and turning ideas into projects.
+ ─────────────────────────────────────────────
 
-### 🔧 Things I work with
+ 🔧 Languages & Tools
 
-- Arduino / ESP32
-- Python
-- Electronics
-- Sensors
-- Embedded Systems
-- Data Analysis
+ Python    C++    Arduino    ESP32    Git    MATLAB
 
-### 🚀 Projects
+ ─────────────────────────────────────────────
 
-- EIT 16-Electrode System
-- Arduino Sensor Projects
-- Python Data Analysis
-- Embedded Systems
+ 🚀 Featured Projects
 
-### 📫 Let's connect
+ EIT 16-Electrode System
+ Arduino Sensor Projects
+ Scientific Data Analysis
 
-Feel free to check out my repositories!
+ ─────────────────────────────────────────────
+
+ 📊 GitHub Stats
+
+ [ GitHub Stats ]    [ Top Languages ]
