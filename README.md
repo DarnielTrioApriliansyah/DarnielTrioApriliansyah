@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Darniel
 
-<!--
-**DarnielTrioApriliansyah/DarnielTrioApriliansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Physics student who likes coding, electronics, sensors, and building random projects ⚡
 
-Here are some ideas to get you started:
+I like learning new things and turning ideas into projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Things I work with
+
+- Arduino / ESP32
+- Python
+- Electronics
+- Sensors
+- Embedded Systems
+- Data Analysis
+
+### 🚀 Projects
+
+- EIT 16-Electrode System
+- Arduino Sensor Projects
+- Python Data Analysis
+- Embedded Systems
+
+### 📫 Let's connect
+
+Feel free to check out my repositories!
