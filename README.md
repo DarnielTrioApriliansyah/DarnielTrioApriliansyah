@@ -7,7 +7,7 @@ I enjoy learning new stuff, making random projects, and figuring out why things 
 ### 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,matlab,git,github,vscode,linux,latex" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,arduino,matlab,git,github,vscode,linux,latex,raspberry" />
 </p>
 
 <p align="left">
